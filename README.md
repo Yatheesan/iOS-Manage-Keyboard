@@ -7,7 +7,7 @@ Fixing UITextField keyboard Overlapping Problems - iOS Swift
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Instructions](#instructions)
-- [screenshot](#screenshot)
+- [screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Build Configuration](#build-configuration)
 - [Build Requirements](#build-requirements)
@@ -21,7 +21,7 @@ Fixing UITextField keyboard Overlapping Problems - iOS Swift
 - Open SampleProject.xcodeproj project
 - Build & Run the project in Simulator or iPhone
 
-## Screenshot
+## Screenshots
 ![alt text](Images/img2.png) 
 ![alt text](Images/img3.png)
 ## Project Structure:
