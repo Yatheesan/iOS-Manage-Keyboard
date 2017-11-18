@@ -18,7 +18,7 @@ Fixing UITextField keyboard Overlapping Problems - iOS Swift
 
 ## Instructions
 - Clone this repository into a location of your choosing, like your projects folder.
-- Open Croober.xcworkspace project
+- Open SampleProject.xcodeproj project
 - Build & Run the project in Simulator or iPhone
 
 ## Screenshot
@@ -37,7 +37,6 @@ Fixing UITextField keyboard Overlapping Problems - iOS Swift
         
 ## Build Configuration:
 You can change the below app configurations details in `info.plist`.
-- api base url
 
 ## Build Requirements:
 - iOS SDK 9.0 or above
@@ -48,6 +47,4 @@ You can change the below app configurations details in `info.plist`.
 - iPhone with iOS version 9.0 or above 
  
 ## License
-
-Copyright (c) MIT License - Yatheesan 
-This source code is licensed under the  license.
+- Copyright (c) MIT License - Yatheesan 
